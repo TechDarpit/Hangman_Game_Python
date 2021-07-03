@@ -1,6 +1,6 @@
 import random_word
 
-name = input("Enter your name: ")
+name = input("\nEnter your name: ")
 print("All the best "+name)
 
 # Return a single random word
